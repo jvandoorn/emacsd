@@ -1,0 +1,4 @@
+# key: today
+# name: current-datetime
+# --
+`(current-time-string)`

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: FEPT_formula
+# key: XasY
+# --
+scoresheet.df\$$1as$2 <- ifelse(as.character(sampled.FEPT.df[,12]) == $3 &
+as.character(sampled.FEPT.df[,15] == $4,
+yes = 1, no = NA)
+$0

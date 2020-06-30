@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: R Block
+# key: r_
+# --
+#+begin_src R :results ${1:output} :session ${2:*R*}
+$0
+#+end_src

@@ -1,0 +1,20 @@
+# -*- mode: snippet -*-
+# key: rhead
+# name: R-header
+# contributor: vandoorn <jvandoorn@protonmail.com>
+# --
+## ---------------------------
+##
+## Name: ${1:`(current-buffer)`}
+##
+## Purpose: $2
+##
+## Author: Jay van Doorn <jvandoorn@protonmail.com>
+##
+## Date Created: `(current-time-string)`
+##
+## ---------------------------
+##
+## Notes: $0
+##
+## ---------------------------

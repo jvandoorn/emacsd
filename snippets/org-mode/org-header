@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: org-header
+# key: org_
+# --
+#+TITLE:     $1
+#+AUTHOR:    Jay van Doorn
+#+EMAIL:     ${2:jvando3@uic.edu}
+#+DATE:      `(current-time-string)`
+#+OPTIONS: H:2 num:nil toc:nil
+#+STARTUP: overview
+
+$0

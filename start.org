@@ -1,0 +1,48 @@
+*Welcome back, Jay.*
+
+| Keybind       | Description       |
+|---------------+-------------------|
+| /C-c C-o/     | To open a link    |
+| /C-h r/       | Emacs Manual      |
+| /M-g g/       | Go to page in PDF |
+| /C-c C-x C-i/ | Clock-in          |
+| /C-c C-x C-o/ | Clock-out         |
+| /C-c C-,/     | Easy template     |
+
+
+* Current Courses
+** [[file:~/Documents/orgfiles/psch543.org][PSCH 543 - Research Design and Analysis]]
+*** [[~/Documents/Books/Textbooks/Barry H. Cohen - Explaining Psychological Statistics-Wiley (2013).pdf][Textbook]]
+*** [[http://alexanderdemos.org/ANOVA.html][Course website]]
+** [[~/Documents/orgfiles/neus501.org][NEUS 501 - Foundations of Neuroscience I]]
+*** [[~/Documents/Books/Textbooks/Kandel, Schwartz - Principles of Neural Science, 5e.pdf][Textbook]]
+** [[~/Documents/orgfiles/jc.org][Journal Club]]
+*** [[https://uofi.app.box.com/folder/85863891914][Box repository]]
+* Research Projects
+** [[~/Documents/orgfiles/lab.org][Lab Meeting Notes]]
+** [[~/Documents/orgfiles/meditation.org][Meditation Project]]
+*** [[~/Documents/orgfiles/thesis/DGEpaper.org][Thesis Manuscript]]
+*** [[~/Documents/texfiles/thesis_vandoorn_final.tex][Tex file]]
+** [[~/Documents/orgfiles/hiv.org][HIV Project]]
+* Init File
+:LOGBOOK:
+CLOCK: [2019-10-27 Sun 11:16]--[2019-10-27 Sun 12:09] =>  0:53
+CLOCK: [2019-10-25 Fri 14:34]--[2019-10-25 Fri 18:05] =>  3:31
+CLOCK: [2019-10-25 Fri 14:06]--[2019-10-25 Fri 14:16] =>  0:10
+CLOCK: [2019-10-15 Tue 15:07]--[2019-10-15 Tue 15:13] =>  0:06
+CLOCK: [2019-10-14 Mon 14:39]--[2019-10-14 Mon 14:46] =>  0:07
+CLOCK: [2019-10-14 Mon 13:25]--[2019-10-14 Mon 14:37] =>  1:12
+CLOCK: [2019-02-05 Tue 12:32]--[2019-02-05 Tue 16:03] =>  3:31
+CLOCK: [2019-01-15 Tue 12:10]--[2019-01-15 Tue 12:24] =>  0:14
+:END:
+** [[~/.emacs.d/myinit.org]]
+* Personal
+** [[~/Documents/orgfiles/books.org][My book list]]
+** [[~/Documents/orgfiles/todo.org][Todo list]]
+** [[~/Documents/orgfiles/smartphone.org][Smartphone information]]
+** [[~/Documents/orgfiles/ep_stuff/ep2.org][Eclipse Phase PbEM]]
+** [[~/Documents/orgfiles/vassal.org][Vassal Shortcuts]]
+** [[~/Documents/orgfiles/wmh.org][Warmachine Notes]]
+** [[~/Documents/orgfiles/landoflisp.org][Learning Lisp]]
+** [[~/Documents/texfiles/CV_2019.tex][CV (tex)]]
+

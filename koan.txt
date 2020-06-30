@@ -1,0 +1,678 @@
+This is KOAN.TXT, version 1
+Last Edit: 2019-Dec-21
+
+This is a document intended for personal use, a list of Zen koãns to be displayed in
+random order, obtained from The True Dharma Eye by Zen Master Dõgen and translated by
+Kazuaki Tanahashi and John Daido Loori.
+
+Stolen for the header of lambda.txt:
+To install on systems using BSD fortune(6), rename this file "koan" and
+store it in the appropriate fortunes directory, usually /usr/games/fortune
+or /usr/share/fortune or something like that. Then in that directory run
+strfile(8) on the "koan" file which should produce a "koan.dat". To
+test, go to some other directory with no file called "koan" in it, and
+say "fortune lambda". If you get a lispy fortune you win. If not you lose.
+To install on other systems simply find a fortune program, install it, and
+then install this file. Or write your own fortune program in Lisp.
+
+If you ever see this text then your program is borked. It shouldn't show the first
+block of text.
+%
+== Qingyuan's Whisk ==
+Zen master Qingyuan Xingsi [Hongji] of Jingju Monastery once asked Zen master Xiqian
+of Shitou [Wuji], “Where are you from?” 
+   Shitou said, “I am from Caoxi [where the Sixth Ancestor taught].”
+   Master Qingyuan held up a whisk and said, “Do they have this in Caoxi?” 
+   Shitou said, “Not in Caoxi, nor in India.” 
+   The master said, “You haven’t been to India, have you?” 
+   Shitou said, “If I had been there, it would have been there.” 
+   The master said, “If you haven’t been there, how can you say that?”
+   Shitou said, “Master, you should say something rather than letting me say it all.” 
+   The master said, “It’s not that I mind saying something, but I fear it would be
+misunderstood later.”
+%
+== Baizhang Remains Seated ==
+Zen master Xiyun of Mount Huangbo [Duanji] asked his teacher, Baizhang Huaihai, "How
+can we explain the teaching that has been handed down?"
+   Baizhang remained seated in silence. 
+   Huangbo said, “If so, what will people in the future receive?” 
+   Baizhang said, “They will say that you are a true person.”  He then returned to the
+abbot’s room.
+%
+== Nanquan's "Water Buffalo" ==
+Zen master Congshen of Zhaozhou [Zhenji] asked his teacher, Nanquan, “Where will the
+one who knows go?” 
+   Nanquan said, “To a donor’s house near the mountain, and become a water buffalo.” 
+   Zhaozhou thanked him for his teaching. 
+   Nanquan said, “Late last night the moonlight came through the window.”
+%
+== Mazu's “Heart Sūtra” ==
+Once, Lecturer Liang of Mount Xi studied with Mazu, who said, “Which sūtra do you
+teach?” 
+   Liang said, “The Heart/Mind Sūtra.”
+   Mazu said, “How do you teach it?”
+   Liang said, “I teach it with the mind.” 
+   Mazu said, “The mind is like an actor. The will is like a supporting actor. The objects of
+the six senses are like their company. How can they teach this sūtra?”
+   Liang said, “If the mind can’t teach it, can emptiness teach it?” 
+   Mazu said, “Yes, emptiness can teach it.” 
+   Liang flipped his sleeves and walked away. 
+   Mazu called out, “Lecturer!” 
+   Liang turned his head. 
+   Mazu said, “From birth till death, it’s just this.”  At that moment Liang had realization. 
+He hid himself at Mount Xi [J., Sei] and was not heard from again.
+%
+== Layman Pangyun’s Awakening ==
+Layman Pangyun asked Shitou upon his first meeting with the teacher, “Who is the one
+who does not accompany all things?” 
+   Shitou covered Pangyun’s mouth with his hand. 
+   Pangyun had some understanding at this point. 
+   Later he repeated the same question to Mazu. 
+   Mazu said, “Wait till you swallow up the Xi River in a single gulp, then I will tell you.” 
+   Pangyun was immediately awakened.
+%
+== Master Langye’s “Original Purity” ==
+A monastic asked Zen master Huijue of Langye [Guangzhao], “Purity is originally all
+embracing. How is it that mountains, rivers, and the great earth suddenly appear?”
+   Langye said, “Purity is originally all embracing. How is it that mountains, rivers, and
+the great earth suddenly appear?”
+%
+== Yangshan’s “It’s Not That There Is No Enlightenment” ==
+Mihu of Jingzhao had a monastic ask Yangshan, “Can people these days depend on
+enlightenment?”
+   Yangshan said, “It’s not that there is no enlightenment, but how can we deal with
+falling into the secondary?”
+   The monastic returned and reported this to Jingzhao, who then approved Yangshan.
+%
+== Nanyue Polishes a Brick ==
+Zen master Mazu Daoyi was an attendant to Nanyue and personally received the mind
+seal from him, exceeding his peers. Before that, he lived in Kaiyuan Monastery and did
+zazen all day long. Knowing that Mazu was a dharma vessel, Nanyue went to him and
+asked, “Great monastic, what do you intend by doing zazen?” 
+   Mazu said, “I am intending to be a buddha.” 
+   Nanyue picked up a brick and started polishing it. 
+   Mazu said, “What are you doing?” 
+   Nanyue said, “I am trying to make a mirror.” 
+   Mazu said, “How can you make a mirror by polishing a brick?” 
+   Nanyue said, “How can you become a buddha by doing zazen?” 
+   Mazu said, “What do you mean by that?” 
+   Nanyue said, “Think about driving a cart. When it stops moving, do you whip the cart or
+the horse?”
+   Mazu said nothing.
+   Nanyue said, “Do you want to practice sitting Zen or sitting Buddha? If you understand
+sitting Zen, you will know that Zen is not about sitting or lying down. If you want to learn
+sitting Buddha, know that sitting Buddha is without any fixed form. Do not use
+discrimination in the non-abiding dharma. If you practice sitting as Buddha, you must kill
+Buddha. If you are attached to the sitting form, you are not yet mastering the essential
+principle.”
+   Mazu heard this admonition and felt as if he had tasted sweet nectar.
+%
+== Minister Peixiu Sees a Portrait ==
+Huangbo once left his assembly at Mount Huangbo and entered Daan Temple. There he
+joined the workers who cleaned the halls. Once, Minister Peixiu visited the temple to
+offer incense and was greeted by the temple director. Peixiu looked at a mural on the
+wall and said, “What kind of painting is that?” 
+   The director said, “It is a portrait of a high monastic.” 
+   Peixiu said, “Obviously it is a portrait. But where is the high monastic?” 
+   The director could not answer.
+   Peixiu said, “Is there a Zen person around here?”
+   The director said, “A monastic has been working in this temple. He seems to be a Zen
+person.”
+   Peixiu said, “Could you ask him to come so I can ask him questions?” Huangbo was
+quickly brought to the minister, who was happy to see him. The minister said, “I have a
+question, but all the masters I have asked this question of have been unable to answer it.
+   Reverend, would you please respond to it?”
+   Huangbo said, “Please present your question, my lord.”
+   Peixiu repeated the question he had asked the temple director.
+   Huangbo raised his voice, called out and said, “Minister!” 
+   Peixiu responded, “Yes?” 
+   Huangbo said, “Where are you?” 
+   Peixiu immediately understood. It was just like finding a pearl in his own hair. He said
+to Huangbo, “You are a true master.” Then he asked Huangbo to open the teaching hall
+and let him enter.
+%
+== Qingyuan’s “Come Closer” ==
+Once a monastic asked Qingyuan, “What is the meaning of Bodhidharma’s coming from
+India?” 
+   Qingyuan said, “It’s just like this!” 
+   The monastic asked further, “What do you have to teach these days?” 
+   Qingyuan said, “Come closer.” 
+   The monastic moved closer. 
+   Qingyuan said, “Keep this in mind.” 
+%
+== Zhaozhou’s “Losing the Mind in Confusion” ==
+Zhaozhou said to the assembly, “‘If you have even a bit of discrimination, you lose your
+mind in confusion.’ Do you have anything to say about this?” 
+   A monastic hit Zhaozhou’s attendant and said, “Why don’t you answer the master?” 
+   Zhaozhou left and went back to the abbot’s room. Later the attendant asked Zhaozhou
+for guidance and said, “Did that monastic who struck me have understanding, or did he
+not?” 
+   Zhaozhou said, “The one who sits sees the one who stands; the one who stands sees
+the one who sits.” 
+%
+== Dongshan’s “Going Beyond Buddha” ==
+Zen master Dongshan Liangjie [Wuben] of Mount Dong said to the assembly, “Experience
+going beyond Buddha and say a word.” 
+   A monastic asked him, “What is saying a word?” 
+   Dongshan said, “When you say a word, you don’t hear it.” 
+   The monastic said, “Do you hear it?” 
+   Dongshan said, “When I am not speaking, I hear it.” 
+%
+== Touzi’s Moon ==
+Once a monastic asked Zen master Datong of Mount Touzi [Ciji], “How is it when the
+moon is not yet full?” 
+   Touzi said, “It swallows up three or four.” 
+   The monastic said, “How is it after the moon is full?” 
+   Touzi said, “It spits out seven or eight.” 
+%
+== Yangshan’s “Dharma Positions” ==
+Yangshan once asked his teacher, Zen master Guishan Lingyou [Dayuan] of Mount Gui,
+“How is it when millions of objects emerge all at once?” 
+   Guishan said, “Blue is not yellow. Long is not short. All things abide in their own
+positions. It does not concern me.” 
+   Yangshan bowed. 
+%
+== Xuansha’s “One Bright Pearl” == 
+Zen master Shibei of Xuansha [Zongyi] was once asked by a monastic, “You said that the
+entire world of the ten directions is one bright pearl. How can I understand the meaning
+of this?” 
+   Xuansha said, “The entire world of the ten directions is one bright pearl. Why is it
+necessary to understand the meaning of this?” 
+   On the following day Xuansha said to the monastic, “The entire world of the ten
+directions is one bright pearl. How do you understand the meaning of this?” 
+The monastic replied, “The entire world of the ten directions is one bright pearl. Why is
+it necessary to understand the meaning of this?” 
+   Xuansha said, “Now I know that you are living inside the cave of demons on the black
+mountain.” 
+%
+== Changsha’s “Returning to Mountains, Rivers, and the Great Earth” ==
+Zen master Jingcen of Changsha [Zhaoxian] was once asked by a monastic, “How do you
+turn the mountains, rivers, and great earth and return to the self?” 
+   Changsha said, “How do you turn the self and return to the mountains, rivers, and
+great earth?” 
+%
+== Xiangyan’s Great Enlightenment ==
+Zen master Zhixian of Mount Xiangyan [Xideng] was bright in nature. Being at the
+assembly of Guishan, he was well learned and had extensive memory. 
+   Guishan one day said to Xiangyan, “Everything you say is what you’ve memorized from
+commentaries. Now I am going to ask you a question. When you were an infant—before
+you could even distinguish east from west—at that time, how was it?” 
+   Xiangyan spoke and presented his understanding, explaining the principle, but could
+not get approval. He went through the texts he had collected and studied, but he could
+not find an answer that would satisfy the master. 
+   Deeply grieved and in tears, he burned all his books and commentaries. Then he said
+to himself, “I will never understand Zen in this lifetime. I will become a hermit monastic
+and enter a mountain and practice.” 
+   Thus he entered Mount Wudang and built a hut near the grave site of National Teacher
+Nanyang. One day while he was sweeping the path, a pebble struck a stalk of bamboo
+and made a cracking sound. At that moment he suddenly had a great enlightenment
+experience. He wrote a poem expressing his understanding:
+
+	    One crack and all knowledge has dissolved.
+	    The struggle is over.
+	    I follow the ancient Way, not lapsing into doubt.
+	    Dignified bearing and conduct
+	    	      that is beyond sound and form;
+	    	 no trace remains of my passing.
+	    Those who have mastered the Way
+	    	  call this the unsurpassable activity. 
+		  
+   He presented this poem to Guishan, who said, “This fellow has penetrated it
+completely.” 
+%
+== Nanquan and the Land Deity ==
+Zen master Puyuan of Mount Nanquan [family name Wang], once visited a village. For
+this occasion the village headsman had made arrangements to welcome him beforehand.
+   Nanquan said, “Usually my coming and going is not known about by others, how is it that
+you knew of my coming and prepared for it like this?” 
+   The headsman said, “Last night the deity of this land told us that you were coming.” 
+   Nanquan said, “Master Wang has not practiced hard enough and was seen by a spirit.” 
+   His attendant said, “You are a master of great knowledge. Why is it that you were
+noticed by a spirit?” 
+   Nanquan said, “Offer a bowl of rice to the land deity.” 
+%
+== “Ordinary Mind Is the Way” ==
+Zhaozhou asked Nanquan, “What is the Way?” Nanquan said, “Ordinary mind is the
+Way.” 
+   Zhaozhou said, “Shall I try to direct myself toward it?” 
+   Nanquan said, “If you try to direct yourself toward it, you will move away from it.” 
+   Zhaozhou said, “If I don’t try, how will I know it’s the Way?” 
+   Nanquan said, “The Way is not concerned with knowing or not knowing. Knowing is
+illusion; not knowing is blank consciousness. If you truly arrive at the Great Way of no
+trying, it will be like great emptiness, vast and clear. How can we speak of it in terms of
+affirming or negating?” 
+   Zhaozhou immediately realized the profound teaching. 
+%
+== Changsha’s “Stop Illusory Thinking” ==
+Changsha was once asked by Emperor’s Secretary Du, “When you chop an earthworm
+into two pieces, both pieces keep moving. I wonder, in which piece is the buddha
+nature?” 
+   Changsha said, “Don’t have illusory thoughts.” 
+   Du said, “How are we to understand that they are both moving?” 
+   Changsha said, “Understand that air and fire are not yet scattered.” 
+   Du said nothing. 
+   Changsha called Du, and Du responded, “Yes?” 
+   Changsha said, “Isn’t this your true self?” 
+   Du said, “Apart from my answering, is there another true self?” 
+   Changsha said, “I can’t call you Emperor.”
+   Du said, “If so, would my not answering also be my true self?” 
+   Changsha said, “It’s not a matter of answering me or not. But since the beginningless
+kalpa, the question to answer or not has been the root of birth and death.” Then he
+recited a verse:
+	Students of the Way don’t know the truth.
+	They only know their past consciousness.
+	This is the basis of endless birth and death.
+	The deluded call it the original self.
+%
+== Panshan’s “Cut a Fine Piece” ==
+Once Zen master Baoji of Panshan [Ningji] went to the marketplace and overheard a
+customer speaking to the butcher. The customer said to the butcher, “Cut a fine piece for
+me.”
+   The butcher threw down his knife, folded his hands, and said, “Sir, is there any piece
+that is not fine?” 
+   Upon hearing these words, Panshan had an awakening. 
+%
+== Puhua’s Bell Song ==
+Puhua of Zhen Region would often go into town ringing a bell and chanting:
+      When brightness comes, hit the brightness. 
+      When darkness comes, hit the darkness. 
+      When four sides and eight directions come, give them a swirling hit. 
+      When emptiness comes, shuck it. 
+   Once, Linji sent a monastic to grab Puhua and say, “What will you do when no-
+brightness and no-darkness come?” 
+   Puhua pushed back the monastic and said, “In a few days there will be a meal offering
+at the Dabei Temple [Great Compassion Temple].” 
+   The monastic went back and reported this to Linji, who said, “I have always wondered
+about that fellow.” 
+%
+== Yangshan’s “High and Low” ==
+One day Zen master Huiji of Yangshan [Tongzhi] joined his teacher Guishan in plowing
+the rice field. Yangshan said, “Master, this place is low. How can I level it with the higher
+place?” 
+   Guishan said, “Water is level, so why not use water and make the entire field level?” 
+   Yangshan said, “Water is not necessary. Master, high places are level as high and low
+places are level as low.” 
+   Guishan approved. 
+%
+== Dasui’s “Great Kalpa Fire” ==
+Zen master Fazhen of Mount Dasui [Shenzhao] was once asked by a monastic, “It is said
+that the great kalpa fire will flash and annihilate the billion worlds. Can you tell me if this
+very place will also be destroyed?” 
+   Dasui said, “It will.” 
+   The monastic said, “If so, will I be part of it?” 
+   Dasui said, “Yes, you will.” 
+%
+== The Master's Portrait ==
+Zen master Guichen of Dizang Monastery held a memorial service for his teacher
+Xuansha. He invited Baoen Xuanze and served him the evening meal.
+   When Baoen looked at the altar, there was no picture of Master Xuansha. So he asked,
+“Do you have a portrait of your master?” 
+   Dizang folded his hands, bowed, and said, “Look!” 
+   Baoen said, “There is no picture.” 
+   Dizang said, “It’s clear that you don’t see it, but it’s here.” 
+%
+== The National Teacher's "Pure Dharma Body" ==
+Zen master Huizhong of Nanyang [Dazheng] was asked by Emperor Suzong of the Tang
+dynasty, “What is the samādhi of no conflict [arana samādhi]?” 
+   Nanyang said, “Your Majesty, go trample on Vairocana’s head.” 
+   Emperor Su said, “I don’t understand.” 
+   Nanyang said, “Don’t regard the self as the pure dharma body.” 
+%
+== Linji's Enlightenment ==
+Zen master Yixuan of Linji Monastery [Huizhao] had been at the assembly of Huangbo
+practicing single-mindedly for three years. 
+   The head monastic admired him, saying, “He is young, but there is something special
+about him.” He sent Linji to the abbot (Huangbo) and had him ask, “What, exactly, is the
+essential meaning of the Buddhadharma?” 
+   Linji went to the master as instructed. Before he had finished speaking, Huangbo hit
+him. Linji asked the question three times, and Huangbo hit him three times. 
+   Linji went back to the head monastic and said, “You compassionately advised me to
+ask a question of the master. I asked three times and was hit three times. I regret that
+something keeps me from understanding his profound teaching. I am leaving here
+today.” 
+   The head monastic said, “If you are leaving, you should bid farewell to the master.”
+   The head monastic went first to the master and said, “The young man who asked you a
+question fits the dharma. If he comes to bid farewell to you, please guide him with skillful
+means. Later he will manifest as a huge tree and provide shade for the world.” 
+   Linji went up to the abbot’s room to bid him farewell. Huangbo said, “Don’t go
+anywhere other than Gao’an Dayu’s place.”
+   Linji visited Gao’an, who asked him where he was from. Linji said, “Huangbo’s.”
+   Gao’an said, “What did Huangbo have to say?”
+   Linji said, “I asked him a question three times and was hit three times. I don’t know if I
+was wrong or not.”
+   Gao’an said, “Huangbo had such a grandmotherly heart. He exhausted himself for you.
+   Why do you ask if you were wrong or not?” 
+   Linji immediately had an awakening and said, “Huangbo’s Buddhadharma is not so
+extraordinary.” 
+   Gao’an pushed him down and said, “You devil in the toilet! A few moments ago you
+were wondering if you had been wrong or not. Now you are saying that Huangbo’s
+dharma is not extraordinary. What principle do you see? Say it. Say it!” 
+   Linji punched Gao’an’s ribs three times.
+   Gao’an pushed him back and said, “Your teacher is Huangbo. I have nothing to do with
+you.”
+   Linji left Gao’an and returned to Huangbo, who said, “You come and go. When is it
+going to stop?” 
+   Linji said, “Just because your old grandmotherly heart is profound.” He made a bow
+and stood next to the master.
+   Huangbo said, “Where did you go?”
+   Linji said, “Following your direction, I went to see Gao’an.”
+   Huangbo said, “What did he say?” Linji told the story.
+   Huangbo said, “If that guy comes to me, I will give him a set of severe blows.”
+   Linji said, “Why do you talk about waiting? Do it now.” Then he hit the master. 
+   Huangbo said, “You crazy monastic, coming here and grabbing the tiger’s whiskers!”
+   Linji shouted. 
+   Huangbo said to his attendant monastic, “Take this crazy monastic and show him to
+the monastics’ hall.” 
+%
+== "Dragon Howling in a Withered Tree" ==
+Xiangyan was once asked by a monastic, “What is the Way?” 
+   Xiangyan said, “A dragon howling in a withered tree.” 
+   The monastic said, “What does it mean?” 
+   Xiangyan said, “Eyeballs in a skull.” 
+   Later, another monastic asked Shishuang Chuyuan, “What is a dragon howling in a
+dead tree?” 
+   Shishuang said, “It still has joy.” 
+   The monastic said, “What are the eyeballs in a skull?” 
+   Shishuang said, “They still have senses.” 
+   Later, another monastic asked Zen master Benji of Caoshan [Yuanzheng], “What is the
+dragon’s howling in a dead tree?” 
+   Caoshan said, “Bloodstream has not stopped.” 
+   The monastic said, “What are the eyeballs in a skull?” 
+   Caoshan said, “Dry all the way.” 
+   The monastic said, “I wonder, can anyone hear it?” 
+   Caoshan said, “Throughout the entire earth, there is no one who does not hear it.” 
+   The monastic said, “Which verse does the dragon sing?” 
+   Caoshan said, “I don’t know which verse it is, but all those who hear it are lost.”
+%
+== Daowu Won't Say ==
+Jianyuan Zhongxing once accompanied his teacher Daowu on a condolence call to a
+family funeral. When they arrived, Jianyuan tapped the coffin and said, “Is this life or is it
+death?” 
+   Daowu said, “I won’t say life. I won’t say death.” 
+   Jianyuan said, “Why won’t you say?” 
+   Daowu said, “I won’t say. I won’t say.” 
+   On their way back, Jianyuan said, “You should quickly say it for me, or I will hit you.” 
+   Daowu said, “Hit me if you will, but I will not say.” 
+   Jianyuan hit him. 
+   After returning to the monastery, Daowu said to Jianyuan, “You should leave for a
+while. I am afraid if the head monastic finds out about this he will make trouble for you.”
+   After Daowu passed away, Jianyuan went to see Daowu’s successor, Shishuang
+   Qingzhu, told him the story, and asked for guidance. 
+   Shishuang said, “I won’t say life. I won’t say death.” 
+   Jianyuan said, “Why won’t you say it?” 
+   Shishuang said, “I won’t say it. I won’t say it.” 
+   Jianyuan immediately realized it. 
+%
+== Caoshan’s “No Change” ==
+Caoshan bid farewell to his teacher Dongshan Liangjie. Dongshan said, “Where are you
+going?” Caoshan said, “I am going to the place of no changing.” 
+   Dongshan said, “Can you leave from the place of no changing?” 
+   Caoshan said, “Leaving is not change.” 
+%
+== Deshan’s Thirty Blows ==
+Zen master Xuanjian of Deshan [Jianxing] said to the assembly during an informal talk, “I
+am not going to give an answer tonight. Anyone who asks a question will get thirty
+blows.” 
+   A monastic came up and bowed. Deshan hit him. 
+   The monastic said, “I haven’t asked a question. Why did you hit me?” 
+   Deshan said, “Where are you from?” 
+   The monastic said, “I came from Silla [in Korea].” 
+   Deshan said, “Before you even got on board the ship, you deserved thirty blows.” 
+%
+== Taiyuan Fans Himself ==
+Senior Monastic Fu of Taiyuan asked his student Gushan, “Where are the nostrils you had
+before your parents were born?” 
+   Gushan said, “Born right now.” 
+   Taiyuan did not approve and said, “You ask me and I will tell you.”
+   Gushan said, “Where are the nostrils you had before your parents were born?” Taiyuan
+just fanned himself. 
+%
+== Caoshan’s “Falling and Rising” ==
+Caoshan was once asked by a monastic, “It has been said since ancient times that no one
+has fallen on the ground who has not risen without using the ground. What is falling?” 
+    Caoshan said, “If you are in accord with this, falling is just as it is.” 
+    The monastic said, “What is rising?” 
+    Caoshan said, “Rising!” 
+%
+== The World-Honored One’s “Intimate Speech” ==
+Zen master Daoying of Mount Yunju [Hongjue] was once asked by a government official
+who had brought an offering, “It is said that the World-Honored One had intimate speech 
+and Mahākāśyapa did not hide it. What is the World-Honored One’s intimate speech?” 
+    Yunju said, “Officer.” The officer said, “Yes!” 
+    Yunju said, “Do you understand?” 
+    The officer said, “No, I don’t.” 
+    Yunju said, “If you don’t understand it, that is the World-Honored One’s intimate
+speech. If you do understand it, that is Mahākāśyapa’s not hiding it.” 
+%
+== Touzi’s “Harmonizing the Ten Bodies” ==
+Touzi Datong was once asked by a monastic, “What is the harmonizing of the ten bodies
+of the Buddha?” 
+   Touzi got down from the sitting platform and stood with folded hands. 
+   On another occasion a monastic asked, “What distance is there between ordinary ones
+and sacred ones?” 
+   Touzi got down from the sitting platform and stood with folded hands. 
+%
+== Deshan’s “Assembly on Vulture Peak” ==
+Deshan Dehai was once asked by a monastic, “Who was able to hear Śākyamuni Buddha
+at the assembly on Vulture Peak?” 
+   Deshan said, “The ācārya heard it.” 
+   The monastic said, “I wonder what was spoken at the assembly on Vulture Peak?” 
+   Deshan said, “The; ācārya understands it.” 
+%
+== Yuezhou’s “Path to Nirvāṇa" ==
+Yuezhou Qianfeng was once asked by a monastic, “Bhagavāns in the ten directions have
+one path to the gate of nirvāṇa.  I wonder, what is the path?” 
+   Yuezhou drew a line with his staff  and said, “It’s right here.” 
+%
+== Xuefeng’s “Turning the Dharma Wheel” ==
+Zen master Yicun of Mount Xuefeng [Zhenjue] pointed with his finger at a furnace and
+said to Xuansha, “All buddhas in the three worlds are in here, turning the great dharma
+wheel.” 
+   Xuansha said, “The king’s regulations are rather strict.” 
+   Xuefeng said, “How so?” 
+   Xuansha said, “Stealing is not permitted.” 
+%
+== Jingqing’s “Buddhadharma at the New Year” ==
+Jingqing Daofu of Longce Monastery was asked by a monastic, “Is there Buddhadharma
+at the beginning of the New Year?” 
+   Jingqing said, “Yes.” 
+   The monastic said, “What is the Buddhadharma at the beginning of the New Year?” 
+   Jingqing said, “The beginning of the year is auspicious. The myriad things are all new.” 
+   The monastic said, “Thank you for your answer.” 
+   Jingqing said, “I lost virtue today.” 
+   Later, another monastic asked Zen master Shuangquan Shikuan [Mingjiao], “Is there
+Buddhadharma at the beginning of the New Year?”  Mingjiao said, “No.” 
+   The monastic said, “Every year is a good year. Every day is a good day. How is it not in
+the New Year?” 
+    Mingjiao said, “When old man Zhang drinks wine, old man Li gets drunk.” 
+    The monastic said, “Old, old, big, big. A dragon head, a snake tail.” 
+    Mingjiao said, “I lost virtue today.” 
+%
+== Sansheng’s Blindness ==
+The second-generation abbot of Baoshou Monastery took the high seat. Zen master
+Huiran of Sansheng Monastery pushed a monastic forward. Baoshou Yanzhao hit the
+monastic. 
+   Sansheng said, “This guidance of yours does not only blind this monastic, but it also
+blinds everyone in the entire city.” 
+   Baoshou threw down the staff and went back to the abbot’s room. 
+%
+== Shitou’s “Ask the Pillar” ==
+Shitou was once asked by a monastic, “What is the significance of Bodhidharma’s coming
+from India?” 
+   Shitou said, “Ask the pillar.” 
+   The monastic said, “I don’t understand it.” 
+   Shitou said, “I don’t understand it either.” 
+%
+== Jingqing’s Thirty Blows ==
+Jingqing asked a monastic, “Where have you been?” 
+   The monastic said, “Three Peaks.” 
+   Jingqing said, “Where were you during the summer?” 
+   The monastic said, “Five Peaks.” 
+   Jingqing said, “I give you thirty blows.” 
+   The monastic said, “What is my fault?” 
+   Jingqing said, “The problem is that you go in and out of monasteries.” 
+%
+== Guizong Cuts a Snake ==
+Zen master Zhichang of Guizong Monastery was cutting grass when a lecturer came by to
+study with him. It so happened that they saw a snake passing by. Guizong cut the snake
+in two with his spade. 
+   The lecturer said, “I have heard of your fame for a long time. But now I see, after all,
+that you are just a śramaṇa of coarse practice.” 
+   Guizong said, “Am I coarse, or is it you that is coarse?” 
+   The lecturer said, “What is coarse?” 
+   Guizong held up the spade. 
+   The lecturer said, “What is fine?” 
+   Guizong made a gesture of cutting a snake. 
+   The lecturer said, “If this is so, then I will practice accordingly.” 
+   Guizong said, “Aside from practicing accordingly, where did you see me cut the
+snake?” 
+   The lecturer was silent. 
+%
+== Guishan’s “I Have Already Exhausted Myself for You” ==
+Guishan sat on the teaching seat. A monastic came up and said, “Master, please expound
+the dharma for the assembly.” 
+   Guishan said, “I have already exhausted myself for you.” 
+   The monastic bowed. 
+%
+== Xuansha’s “The Three Vehicles and the Twelve Divisions of Sūtras” ==
+Xuansha was once asked by a monastic, “The Three Vehicles and the Twelve Divisions of
+Sūtras are unnecessary.  What is the meaning of Bodhidharma’s coming from India?” 
+   Xuansha said, “The Three Vehicles and the Twelve Divisions of Sūtras are totally
+unnecessary.” 
+%
+== Zhaozhou’s Four Gates ==
+Zhaozhou was once asked by a monastic, “What is Zhaozhou?” 
+   Zhaozhou said, “East gate, south gate, west gate, north gate.” 
+   The monastic said, “I did not ask about this.” 
+   Zhaozhou said, “You asked about Zhaozhou, didn’t you?” 
+%
+== Guishan’s “Do Not Betray Others” ==
+One day after sitting Guishan pointed at the straw sandals and said to Yangshan, “All
+hours of the day, we receive people’s support. Don’t betray them.” 
+   Yangshan said, “Long ago in Sudatta’s garden, the Buddha expounded just this.” 
+   Guishan said, “That’s not enough. Say more.” 
+   Yangshan said, “When it is cold, to wear socks for others is not prohibited.” 
+%
+== Xuansha’s Blank Letter ==
+Xuansha one day sent a monastic to deliver a letter to Xuefeng. Xuefeng received the
+monastic while he was teaching, opened the letter, and found a blank piece of paper. He
+showed it to the assembly and said, “Do you understand this?” 
+   After a while he said, “Can’t you see what he says? Virtuous persons have the same
+understanding, even though they are one thousand li apart.” 
+   The monastic went back and reported this to Xuansha.
+   Xuansha said, “The old man on the mountain passed by me without knowing it.” 
+%
+== Dongshan’s “Top of the Mountain” ==
+Dongshan Liangjie asked a visiting monastic, “Where have you been?” 
+   The monastic said, “I have visited a mountain.” 
+   Dongshan said, “Did you get to the top of the mountain?” 
+   The monastic said, “Yes, I did.” 
+   Dongshan said, “Was there anyone on top of the mountain?” 
+   The monastic said, “There was no one there.” 
+   Dongshan said, “You did not get to the top of the mountain.” 
+   The monastic said, “If I hadn’t, how would I know that there was no one there?” 
+   Dongshan said, “Reverend, why don’t you stay here for a while?” 
+   The monastic said, “It’s not that I mind staying. It’s just that there is someone in India
+who may not approve it.” 
+   Dongshan said, “I have my suspicions about this fellow.” 
+%
+== Shilou’s Shortcomings ==
+Shilou was once asked by a monastic, “I don’t know the original nature yet.  Master,
+please show me by skillful means.” 
+   Shilou said, “I don’t have earlobes [I have no ear to hear you].” 
+   The monastic said, “I know I have shortcomings.” 
+   Shilou said, “This old monastic has faults too.” 
+   The monastic said, “What are your faults?”
+   Shilou said, “My fault lies in your shortcomings.” 
+   The monastic bowed. 
+   Shilou hit him. 
+%
+== Niutou and the Fourth Ancestor ==
+Nanquan [Wang] was once asked by a monastic, “Before Niutou Farong met the Fourth
+Ancestor, why did hundreds of birds hold flowers in their beaks and offer them to him?” 
+   Nanquan said, “With each step, Niutou climbed the buddha ladder.” 
+   The monastic said, “Why didn’t the birds offer flowers after Niutou met the Fourth
+Ancestor?” 
+   Nanquan said, “Even if he had not climbed the buddha ladder, he’s still on Master
+Wang’s single road.” 
+%
+== Sansheng’s “Golden Fish” ==
+Sansheng asked  Xuefeng, “What does a golden-scaled fish that goes through the net
+eat?” 
+   Xuefeng said, “I will tell you after you come out of the net.” 
+   Sansheng said, “The teacher of fifteen thousand monastics—and you can’t say a turning
+word.” 
+   Xuefeng said, “This old man is busy with abbot’s matters.” 
+%
+== Shitou’s “Great and Small Canon” ==
+Qingyuan said to Shitou, “Everyone is saying that there is something happening in
+Caoxi.” 
+   Shitou said, “There is someone who doesn’t say something is happening in Caoxi.” 
+   Qingyuan said, “How did you get the Great Canon and the Small Canon?” 
+   Shitou said, “It all comes from here and nothing is lacking.” 
+%
+== Baizhang’s Second Visit to Mazu ==
+Zen master Huaihai of Baizhang went back to study with Mazu. Mazu held up a whisk. 
+   Baizhang said, “Does it stay with its function, or does it go beyond its function?” 
+   Mazu hung the whisk back where it had been. Baizhang stood there for a while. 
+   Mazu said, “How can you guide people by flapping the lips?” 
+   Baizhang took the whisk and held it up. 
+   Mazu said, “Does it stay with its function or does it go beyond its function?” 
+   Baizhang hung the whisk back where it had been. 
+   Mazu shouted. 
+   Baizhang told Huangbo later, “Some time ago I was yelled at by Mazu. It made me
+deaf for three days.” 
+%
+== Dongshan’s “Dharma Bodies” ==
+Dongshan Liangjie was once asked by a monastic, “Among the three buddha bodies,
+which one expounds the dharma?” 
+   Dongshan said, “I am always intimate with this.” 
+   Later a monastic asked Caoshan, “Dongshan said, ‘I am always intimate with this.’
+What does it mean?” 
+   Caoshan said, “If you need a head, chop my head off and take it with you.” 
+   Also, a monastic asked Xuefeng about this. Xuefeng suddenly hit the monastic with his
+staff  and said, “I have also been to Dongshan.”
+%
+== Guishan’s Gift ==
+Guishan said to Yangshan, “I have a lay student who gave me three rolls of silk to buy a temple bell in order to bestow happiness upon the people of the world.”
+   Yangshan said, “When the lay student brought you the silk for the temple bell, what did you give him in return?”
+   Guishan hit the sitting platform three times and said, “This was my offering.”
+   Yangshan said, “If you offered him that, how will it benefit him?” Guishan again hit the platform three times and said, “Why is it that you dislike this?”
+   Yangshan said, “It’s not that I dislike it. It’s just that the gift belongs to everyone.”
+   Guishan said, “Since you know that it belongs to everyone, why did you want me to repay him?”
+   Yangshan said, “I just wondered how you understood that since it belonged to everyone, you could still make it a gift.”
+   Guishan said, “Don’t you see? The great master Bodhidharma, who came to this land from India, also brought a gift. We are always receiving gifts from others.”
+%
+== Where Wisdom Cannot Reach ==
+Zen master Zongzhi [Yuanzhi] of Mount Daowu left Yaoshan and went to visit Nanquan. Nanquan said, “Reverend, what is your name?” 1
+   Daowu said, “Zongzhi [source wisdom].” 2
+   Nanquan said, “Where wisdom does not reach, what do you make of the source?”
+   Daowu said, “I would rather not speak.” 3
+   Nanquan said, “Bright and clear; but if you speak of it, horns will emerge.” 4
+   Three days later, Daowu was in the washroom, sewing with Yunyan. Passing by, Nanquan saw him and said, “The other day you said that you would rather not say it. And I said, ‘If you say it, horns will emerge.’ How then do you practice?” 5
+   Daowu left and entered the monastics’ hall. 6 Then Nanquan went away. Daowu came back and sat down.
+   Yunyan said, “Senior brother, why didn’t you answer the master?” 7
+   Daowu said, “How come you are so brilliant?” 8
+   Yunyan did not press further. He went to [see] Nanquan and said, “[About the question of the other day], why did Ascetic Zhi [Daowu] not answer you?” 9
+   Nanquan said, “He practices among other types of beings.” 10
+   Yunyan said, “What is practicing among other types of beings?” 11
+   Nanquan said, “Don’t you see what was said? ‘Where wisdom does not reach.’ ‘I prefer not to say it.’ ‘If you say it, then horns will emerge.’ Thus you go toward different types of beings.” 12
+   Yunyan did not understand it. Seeing that Yunyan did not accept it, Nanquan said, “This person does not have a reason to stay here.” 13
+   Both [Daowu and Yunyan] went back to Yaoshan. Yaoshan saw them return and asked
+   Yunyan, “Where have you been?”
+   Yunyan said, “I have been with Nanquan.”
+   Yaoshan said, “What did Nanquan say?” Yunyan told him the story.
+   Yaoshan said, “How did you understand his teaching at that time?” Yunyan said nothing, and Yaoshan laughed hard. 14 Yunyan said, “What is practicing among other types of beings?” 15
+   Yaoshan said, “I am tired today. Come back some other time.” 16
+   Yunyan said, “I have come back specifically for this matter.” 17
+   Yaoshan said, “Go away for now.” 18 Yunyan left.
+   Outside the abbot’s room, Daowu, overhearing Yaoshan’s not confirming Yunyan’s understanding, bit his finger to bleeding without noticing. He went back to Yunyan and said, “Junior brother, what did you say to the master [Yaoshan]? How was it?”
+   Yunyan said, “The master did not answer me.” 19 Daowu bowed. 20
+   Later, when Daowu and Yunyan were with Yaoshan, Yaoshan said, “Where wisdom does not reach, you prefer not to say. If you say it, horns will emerge.” 21
+   Daowu thanked him and went away. 22
+   Yunyan finally asked Yaoshan, “Why did [my] senior brother Zhi [Daowu] not answer you?” 23
+   Yaoshan said, “I have a backache today. 24 Daowu understands this matter. Go and ask him.” 25
+   Yunyan went [to Daowu] and said, “Senior brother, why did you not answer the master?” 26
+   Daowu said, “I have a headache. Go and ask the master.” 27
+   Later, before passing away, Yunyan sent his last words to Daowu. 28 Daowu read them and said, “I did not know that Yunyan had it. 29 I regret that I did not say it to him at that time. Even so, he was still an heir of Yaoshan.” 30
+%

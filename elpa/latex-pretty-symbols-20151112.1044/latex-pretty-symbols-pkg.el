@@ -1,0 +1,1 @@
+(define-package "latex-pretty-symbols" "20151112.1044" "Display many latex symbols as their unicode counterparts" 'nil :keywords '("convenience" "display") :authors '(("Erik Parmann" . "eparmann@gmail.com") ("P\303\245l Drange")) :maintainer '("Erik Parmann" . "eparmann@gmail.com") :url "https://bitbucket.org/mortiferus/latex-pretty-symbols.el")
